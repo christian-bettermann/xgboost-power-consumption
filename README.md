@@ -1,2 +1,2 @@
 # xgboost-power-consumption
-Model of the national power consumption in Germany with the XGBoost algorithm
+Dieses Repository dient der Bereitstellung von Dateien bezüglich meiner Bachelorarbeit.
